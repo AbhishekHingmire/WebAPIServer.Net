@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VTorG5WlKQDn8rICmtf6Iajm+RunrSRxgETP1tEXatc=",
+  "Source": "WebAPIServer.Net",
+  "BasePath": "_content/WebAPIServer.Net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
